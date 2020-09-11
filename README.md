@@ -1,5 +1,8 @@
 # sklep_koszyk
 
+hosting:
+https://shop-8209f.web.app/
+
 ## Project setup
 ```
 npm install
